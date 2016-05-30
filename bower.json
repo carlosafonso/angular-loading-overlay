@@ -1,0 +1,31 @@
+{
+  "name": "ca-angular-loading-overlay",
+  "authors": [
+    "Carlos Afonso <carlos.afonso.perez@gmail.com>"
+  ],
+  "description": "A loading overlay directive for AngularJS",
+  "main": [
+    "./dist/js/ca-angular-loading-overlay.min.js",
+    "./dist/css/ca-angular-loading-overlay.min.css"
+  ],
+  "moduleType": [
+    "package"
+  ],
+  "keywords": [
+    "angular",
+    "loading",
+    "overlay"
+  ],
+  "license": "MIT",
+  "homepage": "www.carlosafon.so",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-ui-router": "~0.2.0"
+  }
+}
